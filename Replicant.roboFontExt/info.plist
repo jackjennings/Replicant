@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>addToMenu</key>
+	<array>
+		<dict>
+			<key>path</key>
+			<string>archive_UFO_R.py</string>
+			<key>preferredName</key>
+			<string>Archive UFO</string>
+			<key>shortKey</key>
+			<string>R</string>
+		</dict>
+	</array>
+	<key>developer</key>
+	<string>Jack Jennings</string>
+	<key>developerURL</key>
+	<string>http://ja.ckjennin.gs</string>
+	<key>developerurl</key>
+	<string>http://ja.ckjennin.gs</string>
+	<key>html</key>
+	<true/>
+	<key>launchAtStartUp</key>
+	<integer>0</integer>
+	<key>mainScript</key>
+	<string></string>
+	<key>name</key>
+	<string>Replicant</string>
+	<key>repository</key>
+	<string>jackjennings/Replicant</string>
+	<key>timeStamp</key>
+	<real>1365128043.117813</real>
+	<key>version</key>
+	<string>0.1</string>
+</dict>
+</plist>
