@@ -7,7 +7,7 @@ Replicant saves everything into a directory called **_archive**, which it will c
 
 http://github.com/jackjennings/Replicant
 
-![replicant preview](http://ja.ckjennin.gs/public/images/Replicant-preview.jpg)
+![replicant preview](http://ja.ckjennin.gs/public/images/Replicant-preview.png)
 
 Installation
 ------------
