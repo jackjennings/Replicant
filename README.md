@@ -3,7 +3,7 @@ Replicant
 
 Adds a simple versioning system that exports a timestamped copy of your current UFO. 
 
-Replicant saves everything into a directory called **_archive**, which it will create as a sibling of the working file if it doesn't already exist.
+Replicant saves everything into a directory called `_archive`, which it will create as a sibling of the working file if it doesn't already exist.
 
 http://github.com/jackjennings/Replicant
 
