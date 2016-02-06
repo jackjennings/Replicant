@@ -25,8 +25,13 @@
 	<string></string>
 	<key>name</key>
 	<string>Replicant</string>
-	<key>repository</key>
-	<string>jackjennings/Replicant</string>
+	<key>com.robofontmechanic.Mechanic</key>
+	<dict>
+		<key>repository</key>
+		<string>jackjennings/Replicant</string>
+		<key>summary</key>
+		<string>Simple, filesystem-based versioning</string>
+	</dict>
 	<key>timeStamp</key>
 	<real>1413830104.572064</real>
 	<key>version</key>
